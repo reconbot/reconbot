@@ -1,0 +1,22 @@
+{
+  "name": "reconbot",
+  "version": "1.0.0",
+  "description": "I'm just this guy you know?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reconbot/reconbot.git"
+  },
+  "keywords": [
+    "vanity"
+  ],
+  "author": "Francis Gulotta <wizard@roborooter.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reconbot/reconbot/issues"
+  },
+  "homepage": "https://github.com/reconbot/reconbot#readme"
+}
