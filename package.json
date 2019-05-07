@@ -1,8 +1,9 @@
 {
   "name": "reconbot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "I'm just this guy you know?",
   "main": "index.js",
+  "bin": "bin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
